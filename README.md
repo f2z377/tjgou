@@ -1,1 +1,1 @@
-{"serverTime":"1","userName":"https://www.baidu.com/":"","Safari":"","masl":""}
+{"serverTime":"0","userName":"http://www.baidu.com","masT":"","Safari":"","sexid":"1","masl":""}
